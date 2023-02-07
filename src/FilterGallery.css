@@ -1,0 +1,28 @@
+.xyz{
+    text-align: center;
+    /* display: flex;
+    flex-direction: row; */
+    
+}
+.xy{
+    /* display: flex; */
+    
+    
+}
+img{
+    align-items:center;
+    border-radius: 50%;
+    height: 100px;
+    width: 80px;
+}
+.a{
+    display: flex;
+    flex-direction: row;
+    
+    display: inline-grid;
+    border-style: dotted;
+
+}
+.abc{
+  align-items:center;
+}
